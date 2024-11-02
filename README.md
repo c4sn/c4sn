@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gerardo
+- 👋🏼 Hi, I’m Gerardo
 - 👨🏼‍🎓 In October 2024 I've obtained *cum laude* my M.Sc. in Physics of Complex Systems @ Politecnico di Torino
 - 👀 I’m interested in Physics, Data Science, Econophysics, Finance and more
 - 🌱 I’m currently looking for employment in Data Science related fields
