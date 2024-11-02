@@ -4,7 +4,8 @@
 - 🌱 I’m currently looking for employment in Data Science related fields
 - 📫 Connect with me on LinkedIn if you want :)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a past Academic Senator and I'm currently in the Director's Board of EDISU Piemonte
+- 🏛️ I've been an Academic Senator and I'm currently in the Director's Board of EDISU Piemonte
+- ⚡ Fun fact: since the chemical element *Sn* is called *stagno* in italian, c4sn reads as my surname *Castagno*
 
 <!---
 c4sn/c4sn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
