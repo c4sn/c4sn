@@ -2,7 +2,7 @@
 - 👨🏼‍🎓 In October 2024 I've obtained *cum laude* my M.Sc. in Physics of Complex Systems @ Politecnico di Torino
 - 👀 I’m interested in Physics, Data Science, Econophysics, Finance and more
 - 🌱 I’m currently looking for employment in Data Science related fields
-- 📫 Connect with me on LinkedIn if you want :)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gerardo-castagno/) if you want :)
 - 😄 Pronouns: he/him
 - 🏛️ I've been an Academic Senator and I'm currently in the Director's Board of EDISU Piemonte
 - ⚡ Fun fact: since the chemical element *Sn* is called *stagno* in Italian, c4sn is read as *Castagno* (i.e. my surname) 
